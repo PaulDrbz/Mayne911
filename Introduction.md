@@ -1,8 +1,8 @@
 👋 Hello everyone,
 
-I am Paul !
+I am Paul (or Mayne, my username) !
 
-Why this username? Simply because I am a big fan of Porsche 911s, and Mayne is a nickname I use almost everywhere.
+Why this username? Simply because Mayne is a nickname I use almost everywhere.
 
 Otherwise, to briefly introduce myself, I am 26 years old and a student at a computer science school. I already have a Master's degree in Information Systems, and I chose to deepen my studies by focusing on development!
 The further I go in my studies, the more passionate I become about coding!
